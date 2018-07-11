@@ -14,5 +14,3 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbancer.RandomRule
 env:
   dev
-server:
-  port: 8712
